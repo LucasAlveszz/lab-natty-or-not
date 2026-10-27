@@ -1,16 +1,17 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Video AI Avatar
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📒 Description:
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+AI avatar singing.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🤖 Utilized Tecnologies:
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Wombo, Chat GPT, Gemini.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 🧐 Creation Progress:
+
+I make a "avatar" in Chat GPT, styled in Gemini and make he talk with HeyGen and PixVerseAI
+
+## 🚀 Results:
+
+I managed to create an AI avatar that says hello and blinks.
